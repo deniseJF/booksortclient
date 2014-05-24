@@ -4,7 +4,7 @@ abort() {
     echo "$*"; exit 1
 }
 
-service_jar=~/.m2/repository/br/assessment/booksort/0.0.1-SNAPSHOT/booksort-0.0.1-SNAPSHOT.jar
+service_jar=~/.m2/repository/br/assessment/sorting-service/0.0.1-SNAPSHOT/sorting-service-0.0.1-SNAPSHOT.jar
 
 file_path=$1
 
