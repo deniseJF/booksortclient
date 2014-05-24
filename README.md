@@ -9,3 +9,8 @@ After that, you can run the sample client with:
 
     $ cd <PATH_TO_BOOKSORTCLIENT>
     $ ./run_client.sh
+
+
+### Recommended platform
+
+The projects were developed targetting Java 7, using Oracle JDK 7.
